@@ -18,6 +18,11 @@
   --primary-white-transparent: rgba(255, 255, 255, 0.6);
 }
 
+* {
+  text-decoration: none;
+  list-style: none;
+}
+
 body {
   background-color: var(--primary-white-color);
   color: var(--primary-text-color);
